@@ -1,0 +1,10 @@
+gemma_pytorch
+gemma3Model
+klops.venv
+gemma3.zip
+gemma-3-pytorch-gemma-3-4b-it-v1.tar.gz
+klops_temp_data.csv
+qwen copy.ipynb
+test.ipynb
+hf_token.py
+__pycache__
